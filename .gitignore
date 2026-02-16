@@ -1,0 +1,38 @@
+# WordPress core mappen
+wp-admin/
+wp-includes/
+
+# WordPress core bestanden in root
+wp-login.php
+wp-mail.php
+index.php
+license.txt
+readme.html
+xmlrpc.php
+wp-*.php
+
+# WordPress config (bevat gevoelige info)
+wp-config.php
+
+# Uploads (grote bestanden)
+wp-content/uploads/
+
+# Andere wp-content mappen die je niet wilt tracken
+wp-content/languages/
+wp-content/plugins/
+wp-content/cache/
+wp-content/upgrade/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# OS bestanden
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
