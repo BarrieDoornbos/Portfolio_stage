@@ -11,5 +11,3 @@
     <header>
         <?php get_template_part('template-parts/menu/menu'); ?>
     </header>
-</body>
-</html>
